@@ -32,7 +32,7 @@ You can pull any supported model. For example I used minstral :
 
 ollama pull mistral:7b-instruct-q4_K_M
 
-You can change the model used in like 15/16 in both files depending on preference
+You can change the model used in lines 15/16 in both files depending on preference
 
 
 ### Usage
